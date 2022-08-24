@@ -1,5 +1,5 @@
 Updates under progress..
-<!---
+
 # Deep Semantic Manipulation of Facial Videos
 [![Youtube Video](https://img.shields.io/badge/HD%20Video-Results-red?logo=youtube)](https://youtu.be/VIGFHaa1aIA)
 [![arXiv Prepring](https://img.shields.io/badge/arXiv-Preprint-red?logo=arxiv)](https://arxiv.org/abs/2111.07902)
@@ -38,4 +38,3 @@ Editing and manipulating facial features in videos is an interesting and importa
 <br><br>
 <a href="https://www.youtube.com/watch?v=VIGFHaa1aIA&t=16s"><img src="youtube_github.png" width="600" height="400"/></a>
 </p>
--->

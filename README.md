@@ -1,5 +1,3 @@
-Updates under progress..
-
 # Deep Semantic Manipulation of Facial Videos
 [![Youtube Video](https://img.shields.io/badge/HD%20Video-Results-red?logo=youtube)](https://youtu.be/VIGFHaa1aIA)
 [![arXiv Prepring](https://img.shields.io/badge/arXiv-Preprint-red?logo=arxiv)](https://arxiv.org/abs/2111.07902)
